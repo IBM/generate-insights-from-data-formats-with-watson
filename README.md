@@ -57,7 +57,7 @@ Consolidate Warranty Systems & Processes. Minimize the number of automobile spar
 
 # Watch the Video
 
-[![](   )](   )
+[![](http://img.youtube.com/vi/wj39DepBVBg/0.jpg)](https://youtu.be/wj39DepBVBg)
 
 # Steps
 
