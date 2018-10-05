@@ -120,7 +120,7 @@ Navigate to [data](https://github.com/IBM/generate-insights-from-data-formats-wi
 
 Use `Find and Add Data` (look for the `10/01` icon)
 and its `Files` tab. From there you can click
-`browse` and add data files from your computer.
+`browse` and add data files from your computer. `Insert the three files as specified in the notebook.`
 
 ![](https://github.com/IBM/generate-insights-from-data-formats-with-watson/blob/master/doc/source/image/add_file.png)
 
@@ -150,7 +150,7 @@ Update the `username` and `password` key values in the cell below `Add your serv
 * Delete the contents of the cell
 
 * Use `Find and Add Data` (look for the `10/01` icon) and its `Files` tab. You should see the file names uploaded earlier. Make sure your active cell is the empty one below `Add...`
-* Select `Insert to code` (below your data_files).
+* Select `Insert to code` (below your sample_config.txt file).
 * Click `Insert Credentials` from drop down menu.
 * Make sure the credentials are saved as `credentials_1`.
 
