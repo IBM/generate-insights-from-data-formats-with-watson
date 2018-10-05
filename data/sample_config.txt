@@ -9,12 +9,12 @@
                      "type":"keywords",
                      "keywords":[
                         {
-                           "tag":"Requirement",
-                           "text":"UX Designer"
+                           "tag":"Recruitment",
+                           "text":"Job profile"
                         },
                         {
-                           "tag":"Requirement",
-                           "text":"Machine Learning"
+                           "tag":"Skill",
+                           "text":"User Experience"
                         }
                      ]
                   },
