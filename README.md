@@ -5,7 +5,7 @@ In this code pattern, we will demonstrate a methodology to integrate structured 
 When the reader has completed this code pattern, they will understand how to:
 
 * Establish a relation between unstructured data & structured data for generating insights & recommendations.
-* Extract and format unstructured data & structured data using configuerable Python functions.
+* Extract and format unstructured data & structured data using configurable Python functions.
 * Use a configuration file to specify the job requirements to initiate data processing for a job profile.
 * Use IBM Watson Natural Language Understanding API to extract metadata from documents in Jupyter notebooks.
 * Create and run a Jupyter notebook in Watson Studio platform.
@@ -26,7 +26,7 @@ By linking structured & unstructured data we can get recommendations for new lea
 
 > Enhance the efficiency of spare parts in the automobile industry to reduce warranty claims by taking the customer feedback after the service.
 
-Customer feedback is captured in a form which is unstructured where the keywords are extracted from the problem statement and compared with the inventory system having structured information to check the quality and durability. If there are repeated complaints about specific sku's then the manifacturing cycle of the specific sku's should be reviewed for improvements which can enhance the durability of the spare parts and can reduce the warranty claims. This will also help the R & D team to come up with new features for the existing components to deliver superior performance which can enhance the customer experience resulting in increased sales. 
+Customer feedback is captured in a form which is unstructured where the keywords are extracted from the problem statement and compared with the inventory system having structured information to check the quality and durability. If there are repeated complaints about specific sku's then the manufacturing cycle of the specific sku's should be reviewed for improvements which can enhance the durability of the spare parts and can reduce the warranty claims. This will also help the R & D team to come up with new features for the existing components to deliver superior performance which can enhance the customer experience resulting in increased sales. 
 
 Identifying the key parts causing the failure. Collecting failure descriptions to include:
 
@@ -81,11 +81,11 @@ Sign up for IBM [**Cloud**](https://console.bluemix.net/). By clicking on create
 
 Sign up for IBM's [Watson Studio](http://dataplatform.ibm.com/). 
 
-Click on New project and select Data Science as per below.
+Click on `New project` and select Data Science as per below.
 
 ![](https://github.com/IBM/generate-insights-from-data-formats-with-watson/blob/master/doc/source/image/new_project.png)
 
-Define the project by giving a Name and hit 'Create'.
+Define the project by giving a Name and hit `Create`.
 
 ![](https://github.com/IBM/generate-insights-from-data-formats-with-watson/blob/master/doc/source/image/define_project.png)
 
