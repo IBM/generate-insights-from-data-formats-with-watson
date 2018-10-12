@@ -40,6 +40,11 @@ Consolidate Warranty Systems & Processes. Minimize the number of automobile spar
 # Architecture Diagram
 ![](https://github.com/IBM/generate-insights-from-data-formats-with-watson/blob/master/doc/source/image/architecture.png)
 
+1. Post the job description with the query to identify suitable candidates
+2. Input the candidate database, configuration file & candidate resumes into object storage
+3. The query is processed in Watson Studio with the help of Watson NLU to process structured & unstructured data and generate recommendations
+4. The recommendations with the suitable candidates are displayed as output which will be consumed by the recruiter to take informed decision.
+
 ## Included components
 
 * [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio): Analyze data using RStudio, Jupyter, and Python in a configured, collaborative environment that includes IBM value-adds, such as managed Spark.
