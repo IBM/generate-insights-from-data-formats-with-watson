@@ -4,7 +4,7 @@ Our project welcomes external contributions! If you have an itch, please
 feel free to scratch it.
 
 To contribute code or documentation, please submit a pull request to the [GitHub
-repository](https://github.com/IBM/).
+repository](https://github.com/IBM/generate-insights-from-data-formats-with-watson).
 
 A good way to familiarize yourself with the codebase and contribution process is
 to look for and tackle low-hanging fruit in the [issue
@@ -19,7 +19,7 @@ or cannot be accepted at all!**
 ### Proposing new features
 
 If you would like to implement a new feature, please [raise an
-issue](https://github.com/IBM//issues) before sending a pull
+issue](https://github.com/IBM/generate-insights-from-data-formats-with-watson/issues) before sending a pull
 request so the feature can be discussed. This is to avoid you spending your
 valuable time working on a feature that the project developers are not willing
 to accept into the code base.
@@ -27,7 +27,7 @@ to accept into the code base.
 ### Fixing bugs
 
 If you would like to fix a bug, please [raise an
-issue](https://github.com/IBM//issues) before sending a pull
+issue](https://github.com/IBM/generate-insights-from-data-formats-with-watson/issues) before sending a pull
 request so it can be discussed. If the fix is trivial or non controversial then
 this is not usually necessary.
 
@@ -42,7 +42,7 @@ For more details, see the [MAINTAINERS](MAINTAINERS.md) page.
 ## Communication
 
 Please feel free to connect with us on our [here]
-(https://github.com/IBM//issues).
+(https://github.com/IBM/generate-insights-from-data-formats-with-watson/issues).
 
 ## Setup
 
